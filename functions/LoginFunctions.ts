@@ -12,4 +12,5 @@ export class LoginFunctions {
     }
 
     // Add more functions as needed
+    
 }
